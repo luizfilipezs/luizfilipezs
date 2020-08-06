@@ -13,4 +13,9 @@ The first one is a package written in TypeScript. It allows you to make requests
 
 I hope you like my work here and I invite you to visit [my blog](https://blogdolipe.com.br), where I weekly post articles from developer to developer :wink:
 
+See the latest article I wrote:
+
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
 Now, I have to go and code something... :octocat:
