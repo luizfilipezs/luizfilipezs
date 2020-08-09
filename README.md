@@ -17,7 +17,7 @@ See the latest articles I wrote:
 
 <!-- HASHNODE:START -->
 - [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today-ckdmm1zgw05o2zzs1626v5c2a)
-- [Everything you need to know about handling HTML in JavaScript](https://blogdolipe.com.br/everything-you-need-to-know-about-handling-html-in-javascript-ckdef273p0245yss1htzncoaj)
+- [A simple guide to handle HTML in JavaScript](https://blogdolipe.com.br/a-simple-guide-to-handle-html-in-javascript-ckdef273p0245yss1htzncoaj)
 - [How to use decorators in Python](https://blogdolipe.com.br/how-to-use-decorators-in-python-ckdbiqgjg01h759s16hn95tlr)
 - [A little bit of theory for Angular beginners](https://blogdolipe.com.br/a-little-bit-of-theory-for-angular-beginners-ckd9tb9dw00a2z2s1a9vf0zuo)
 - [Nice things I'm learning while creating my framework](https://blogdolipe.com.br/nice-things-im-learning-while-creating-my-framework-ckd5kbq1200uo5ys19rn9dmm8)
