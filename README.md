@@ -16,7 +16,7 @@ I hope you like my work here and I invite you to visit [my blog](https://blogdol
 See the latest articles I wrote:
 
 <!-- HASHNODE:START -->
-- [Some JavaScript utilities you can start using today](https://blogdolipe.com.br/some-javascript-utilities-you-can-start-using-today-cke3qpzhl00m58os1bg7s5sif)
+- [Some JS/TS utilities you can start using today!](https://blogdolipe.com.br/some-jsts-utilities-you-can-start-using-today-cke3srr6n00so8os12coi9m9w)
 - [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today-ckdmm1zgw05o2zzs1626v5c2a)
 - [A simple guide to handle HTML in JavaScript](https://blogdolipe.com.br/a-simple-guide-to-handle-html-in-javascript-ckdef273p0245yss1htzncoaj)
 - [How to use decorators in Python](https://blogdolipe.com.br/how-to-use-decorators-in-python-ckdbiqgjg01h759s16hn95tlr)
