@@ -16,11 +16,11 @@ I hope you like my work here and I invite you to visit [my blog](https://blogdol
 See the latest ones I wrote:
 
 <!-- HASHNODE:START -->
+- [Five tips for you to feel more inclined to study](https://blogdolipe.com.br/five-tips-for-you-to-feel-more-inclined-to-study)
 - [Create a front end service with just one line of code](https://blogdolipe.com.br/create-a-front-end-service-with-just-one-line-of-code)
 - [Some JS/TS utilities you can start using today!](https://blogdolipe.com.br/some-jsts-utilities-you-can-start-using-today)
 - [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today)
 - [A simple guide to handle HTML in JavaScript](https://blogdolipe.com.br/a-simple-guide-to-handle-html-in-javascript)
-- [How to use decorators in Python](https://blogdolipe.com.br/how-to-use-decorators-in-python)
 <!-- HASHNODE:END -->
 
 Now, I have to go and code something... :octocat:
