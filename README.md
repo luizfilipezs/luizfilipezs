@@ -7,13 +7,13 @@ My main repositories here are:
 - [http-service-ts](https://github.com/luizfilipezs/http-service-ts)
 - [lets-debug](https://github.com/luizfilipezs/lets-debug)
 
-The first one is a package written in TypeScript. It allows you to make requests to server and parse them handling a single `Promise`.
+The first one is a package written in TypeScript. It allows you to make requests to a server and parse them handling a single `Promise`.
 
-`lets-debug` is a Python package that you can use to debug your applications using terminal or cmd.
+`lets-debug` is a Python package that you can use to create prettier logs on terminal or cmd.
 
 I hope you like my work here and I invite you to visit [my blog](https://blogdolipe.com.br), where I weekly post articles from developer to developer :wink:
 
-See the latest articles I wrote:
+See the latest ones I wrote:
 
 <!-- HASHNODE:START -->
 - [Create a front end service with just one line of code](https://blogdolipe.com.br/create-a-front-end-service-with-just-one-line-of-code)
