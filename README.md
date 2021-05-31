@@ -16,7 +16,7 @@ I hope you like my work here and I invite you to visit [my blog](https://blogdol
 See the latest ones I wrote:
 
 <!-- HASHNODE:START -->
-- [5 tips to get ready to study](https://blogdolipe.com.br/5-tips-to-get-ready-to-study)
+- [Finding willingness to study](https://blogdolipe.com.br/finding-willingness-to-study)
 - [Create a front end service with just one line of code](https://blogdolipe.com.br/create-a-front-end-service-with-just-one-line-of-code)
 - [Some JS/TS utilities you can start using today!](https://blogdolipe.com.br/some-jsts-utilities-you-can-start-using-today)
 - [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today)
