@@ -1,4 +1,4 @@
-I code daily and keep myself updated with the most important news in the programming world. As a professional, I use PHP in my daily work and am constantly improving my skills in this language. Also, I like working with TypeScript and languages that allow me to apply Object Oriented Programming.
+I code daily and keep up to date with the most important news in the world of programming. As a professional, I use PHP in my daily work and I am constantly improving my skills in this language. Also, I like working with TypeScript and languages that allow me to apply Object Oriented Programming.
 
 The most important thing about me: everything I do is driven by aesthetics. I write short stories, poems and codes guided by this principle.
 
